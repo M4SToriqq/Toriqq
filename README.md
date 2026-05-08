@@ -1,66 +1,50 @@
-# Hi there, I'm Toriq Habil Fadhila 👋
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Software+Engineer;Fullstack+Developer;Laravel+%2B+Vue+Specialist;Building+Modern+Web+Applications;Clean+Code+%7C+Scalable+Architecture" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:6366f1&text=Toriq%20Habil%20Fadhila&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20•%20Fullstack%20Developer&descAlignY=60" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=900&lines=Software+Engineer;Fullstack+Developer;Laravel+%2B+Vue+Specialist;Building+Modern+Web+Applications;Clean+Architecture+%7C+Scalable+Systems" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Focus-Fullstack%20Engineering-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend-VueJS-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-```javascript
-const toriq = {
-  role: "Software Engineer",
+<div align="center">
 
-  specialization: [
-    "Fullstack Development",
-    "Backend Engineering"
-  ],
+<table>
+<tr>
+<td width="50%">
 
-  techStack: {
-    frontend: [
-      "Vue.js",
-      "JavaScript",
-      "Tailwind CSS",
-      "Inertia.js"
-    ],
+### 👨‍💻 Profile
 
-    backend: [
-      "Laravel",
-      "PHP",
-      "Node.js"
-    ],
+- 🔭 Building modern POS & business systems
+- 🌱 Learning scalable backend architecture
+- ⚡ Focused on clean & maintainable code
+- 🎯 Fullstack Engineer with backend priority
+- 🚀 Passionate about performance & DX
 
-    database: [
-      "MySQL",
-      "PostgreSQL"
-    ],
+</td>
 
-    tools: [
-      "Git",
-      "Docker",
-      "VSCode",
-      "Postman"
-    ]
-  },
+<td width="50%">
 
-  architecture: [
-    "Clean Architecture",
-    "SOLID",
-    "DRY",
-    "Scalable Systems"
-  ],
+<img src="https://github-readme-stats.vercel.app/api?username=M4SToriqq&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
-  currentFocus:
-    "Building modern POS & business management systems"
-}
-```
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
@@ -68,9 +52,13 @@ const toriq = {
 
 <img src="https://skillicons.dev/icons?i=vue,js,html,css,tailwind,vite" />
 
+<br/><br/>
+
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+
+<br/><br/>
 
 ### Database & Tools
 
@@ -80,7 +68,7 @@ const toriq = {
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -90,6 +78,8 @@ const toriq = {
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4SToriqq&theme=tokyonight&hide_border=true&border_radius=15" />
@@ -98,94 +88,47 @@ const toriq = {
 
 ---
 
-## ⚡ Engineering Principles
+# ⚡ Engineering Principles
 
-- Clean & Maintainable Architecture
-- Performance First Mindset
-- Secure Development Practices
-- Scalable Backend Systems
-- Reusable Component Design
-- Production-Ready Code Standards
-- API-Driven Development
-- Consistent Developer Experience
+<div align="center">
+
+| Principle | Focus |
+|---|---|
+| 🧱 Architecture | Clean Architecture & SOLID |
+| ⚡ Performance | Fast & optimized systems |
+| 🔒 Security | Secure coding practices |
+| ♻️ Maintainability | Reusable & scalable code |
+| 🧩 DX | Consistent developer experience |
+| 🚀 Production | Production-ready applications |
+
+</div>
 
 ---
 
-## 🌟 Featured Project
+# 🌟 Featured Project
 
-# 🧾 KasirKita — Modern POS System
+<div align="center">
 
-Modern Point of Sale (POS) application for UMKM and retail businesses.
+## 🧾 KasirKita — Modern POS System
 
-### Features
+Modern Point of Sale (POS) application for UMKM & retail businesses.
 
-- Product Grid POS
-- Inventory Management
-- Sales Reporting
-- Midtrans Payment Gateway
-- Stock Tracking
-- Role-Based Access Control
-- Realtime Dashboard
-- Export Reports
-- Transaction Void System
-- Barcode Scanner Support
+</div>
 
-### Tech Used
+### ✨ Features
+
+- 🛒 Product Grid POS
+- 📦 Inventory Management
+- 📈 Sales Reporting
+- 💳 Midtrans Payment Gateway
+- 📊 Stock Tracking
+- 🔐 Role-Based Access Control
+- ⚡ Realtime Dashboard
+- 📄 Export Reports
+- ❌ Transaction Void System
+- 🔍 Barcode Scanner Support
+
+### 🧰 Tech Used
 
 ```txt
-Laravel + Vue + Inertia.js + Tailwind CSS + MySQL
-```
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M4SToriqq&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/M4SToriqq/M4SToriqq/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/M4SToriqq">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:toriqqhabilfadhila21@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 💡 Developer Quote
-
-<div align="center">
-
-> "Great software is built with clean architecture, scalable systems, and attention to detail."
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=M4SToriqq&style=for-the-badge&color=6366f1" />
-
-</div>
+Laravel + Vue.js + Inertia.js + Tailwind CSS + MySQL
