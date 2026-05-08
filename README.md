@@ -18,29 +18,17 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4SToriqq&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
-### 👨‍💻 Profile
+</div>
+
+<br/>
 
 - 🔭 Building modern POS & business systems
 - 🌱 Learning scalable backend architecture
 - ⚡ Focused on clean & maintainable code
 - 🎯 Fullstack Engineer with backend priority
 - 🚀 Passionate about performance & DX
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=M4SToriqq&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
