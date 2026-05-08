@@ -60,9 +60,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=M4SToriqq&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M4SToriqq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=M4SToriqq&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4SToriqq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=M4SToriqq&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=M4SToriqq&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
