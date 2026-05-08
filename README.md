@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4SToriqq&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=M4SToriqq&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
